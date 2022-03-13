@@ -1,12 +1,12 @@
-# coursera SAS learning notes
+# Coursera SAS Learning Notes
 
 In order to pass the sas-base and sas-advanced certified exams and get to know more about this new programming language. I am taking 2 specialization courses on courera. Here are some notes and scripts.
 
-## current plan
+## Current Plan
 
 * SAS Programmer Professional Certificate
     - [x] Getting Started with SAS Programming
-    - [ ] Doing More with SAS Programming
+    - [x] Doing More with SAS Programming
     - [ ] Prepering for the SAS Programming Certification Exam
     - [ ] Practicing for the SAS Programming Certification Exam
 
